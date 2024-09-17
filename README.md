@@ -2,5 +2,5 @@
 
 - project incomplete
 - (completion esitmate : tommorow)
-##### RESPONSIVE WEB DESIGN, project 2, FreeCodeChamp.com
+###### RESPONSIVE WEB DESIGN, project 2, FreeCodeChamp.com
 
