@@ -35,3 +35,8 @@ The **Cafe Menu** project demonstrates how to structure a webpage with HTML and 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/cafe-menu.git
+
+2. Ensure that both the index.html and styles.css files are in the same directory.
+   
+3. Open the index.html file in a web browser to view the project.
+
