@@ -1,6 +1,7 @@
 # Project 2: Cafe Menu - Responsive Web Design (FreeCodeCamp)
+###### This repository contains the completed code for Project 2 in the FreeCodeCamp "Responsive Web Design" course.
 
-This repository contains the completed code for Project 2 in the FreeCodeCamp "Responsive Web Design" course. This project focuses on building a responsive menu for a fictional cafe using basic HTML and external CSS.
+This project focuses on building a responsive menu for a fictional cafe using basic HTML and external CSS.
 
 ## Project Overview
 
@@ -40,3 +41,18 @@ The **Cafe Menu** project demonstrates how to structure a webpage with HTML and 
    
 3. Open the index.html file in a web browser to view the project.
 
+## Learning Objectives
+
+This project helps learners:
+- Practice writing semantic HTML.
+- Create and link an external CSS file to style a webpage.
+- Align text and images using CSS.
+- Use basic HTML elements like headings, paragraphs, and lists to organize content.
+
+## FreeCodeCamp Curriculum
+
+This project is a part of the [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/) on FreeCodeCamp.
+
+## License
+
+This project is licensed under the MIT License.
