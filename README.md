@@ -1,4 +1,4 @@
-# Project 2: Cafe Menu - Responsive Web Design (FreeCodeCamp)
+# Project 2: Cafe Menu - Responsive Web Design (FCC)
 ##### This repository contains the completed code for Project 2 in the FreeCodeCamp "Responsive Web Design" course.
 
 This project focuses on building a responsive menu for a fictional cafe using basic HTML and external CSS.
